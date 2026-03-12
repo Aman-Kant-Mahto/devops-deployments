@@ -1,6 +1,7 @@
 # 📘 README.md — DevOps Assignment Documentation
 
-![Uploading ChatGPT Image Mar 12, 2026, 11_54_18 AM.png…]()
+<img width="1024" height="1536" alt="ChatGPT Image Mar 12, 2026, 11_54_18 AM" src="https://github.com/user-attachments/assets/171075ef-4ca4-4ce6-91c7-5f0ef94dbb01" />
+
 
 
 ## 🚀 MEAN Stack Application Deployment using Docker, CI/CD, and Cloud
