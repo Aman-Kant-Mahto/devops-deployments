@@ -1,5 +1,8 @@
 # 📘 README.md — DevOps Assignment Documentation
 
+![Uploading ChatGPT Image Mar 12, 2026, 11_54_18 AM.png…]()
+
+
 ## 🚀 MEAN Stack Application Deployment using Docker, CI/CD, and Cloud
 
 This project demonstrates **end-to-end DevOps implementation** for deploying a full-stack MEAN (MongoDB, Express, Angular, Node.js) application using containerization, CI/CD automation, cloud infrastructure, and reverse proxy configuration.
